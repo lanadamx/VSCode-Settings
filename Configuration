@@ -65,4 +65,5 @@
   "workbench.activityBar.visible": false,
   "workbench.statusBar.visible": false,
   "workbench.startupEditor": "none"
+  "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe"
 }
